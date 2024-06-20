@@ -1,16 +1,26 @@
 1# todo_app
 
-A new Flutter project.
+A new Flutter project, the ToDo App developed by Quantum IT Innovation, utilizes Bloc for state management. This app allows users to save notes according to priority, set reminders for tasks with due dates, and easily search for notes by clicking on the search icon. Users can perform all CRUD operations within the app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the home page.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/KaminiGairola/ToDoList_App_Quantum_It_Innovation/assets/161557431/91e536f8-25d4-45c8-86fc-d5e1ed8aaf68)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my add_note_screen
+
+![image](https://github.com/KaminiGairola/ToDoList_App_Quantum_It_Innovation/assets/161557431/d9a34171-2253-474b-bd41-892f2e8e19b6)
+
+
+This is my edit_note_screen
+
+![image](https://github.com/KaminiGairola/ToDoList_App_Quantum_It_Innovation/assets/161557431/66a4e684-d583-45b3-acda-67a3fc365498)
+
+
+This is my search page
+
+![image](https://github.com/KaminiGairola/ToDoList_App_Quantum_It_Innovation/assets/161557431/cb42d110-fb59-427c-98fb-fba01b2a964b)
+
+
